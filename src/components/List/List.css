@@ -1,0 +1,21 @@
+.list_titulo {
+  display: flex;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+
+
+}
+.list-wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 20px 10px
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  gap: 10px;
+  width: 1200px;
+}
